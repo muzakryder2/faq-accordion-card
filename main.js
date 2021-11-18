@@ -24,6 +24,30 @@ const handleClickQ1 = () => {
     document.getElementById("button1").style.transform = "rotate(180deg)";
     document.getElementById("q1").style.fontWeight = "700";
     isOpenQ1 = true;
+
+    document.getElementById("a2").style.transform = "translateY(100%)";
+    document.getElementById("a2").style.height = "0";
+    document.getElementById("button2").style.transform = "rotate(0deg)";
+    document.getElementById("q2").style.fontWeight = "400";
+    isOpenQ2 = false;
+
+    document.getElementById("a3").style.transform = "translateY(100%)";
+    document.getElementById("a3").style.height = "0";
+    document.getElementById("button3").style.transform = "rotate(0deg)";
+    document.getElementById("q3").style.fontWeight = "400";
+    isOpenQ3 = false;
+
+    document.getElementById("a4").style.transform = "translateY(100%)";
+    document.getElementById("a4").style.height = "0";
+    document.getElementById("button4").style.transform = "rotate(0deg)";
+    document.getElementById("q4").style.fontWeight = "400";
+    isOpenQ4 = false;
+
+    document.getElementById("a5").style.transform = "translateY(100%)";
+    document.getElementById("a5").style.height = "0";
+    document.getElementById("button5").style.transform = "rotate(0deg)";
+    document.getElementById("q5").style.fontWeight = "400";
+    isOpenQ5 = false;
   }
 };
 
@@ -51,6 +75,30 @@ const handleClickQ2 = () => {
     document.getElementById("button2").style.transform = "rotate(180deg)";
     document.getElementById("q2").style.fontWeight = "700";
     isOpenQ2 = true;
+
+    document.getElementById("a1").style.transform = "translateY(100%)";
+    document.getElementById("a1").style.height = "0";
+    document.getElementById("button1").style.transform = "rotate(0deg)";
+    document.getElementById("q1").style.fontWeight = "400";
+    isOpenQ1 = false;
+
+    document.getElementById("a3").style.transform = "translateY(100%)";
+    document.getElementById("a3").style.height = "0";
+    document.getElementById("button3").style.transform = "rotate(0deg)";
+    document.getElementById("q3").style.fontWeight = "400";
+    isOpenQ3 = false;
+
+    document.getElementById("a4").style.transform = "translateY(100%)";
+    document.getElementById("a4").style.height = "0";
+    document.getElementById("button4").style.transform = "rotate(0deg)";
+    document.getElementById("q4").style.fontWeight = "400";
+    isOpenQ4 = false;
+
+    document.getElementById("a5").style.transform = "translateY(100%)";
+    document.getElementById("a5").style.height = "0";
+    document.getElementById("button5").style.transform = "rotate(0deg)";
+    document.getElementById("q5").style.fontWeight = "400";
+    isOpenQ5 = false;
   }
 };
 
@@ -78,6 +126,30 @@ const handleClickQ3 = () => {
     document.getElementById("button3").style.transform = "rotate(180deg)";
     document.getElementById("q3").style.fontWeight = "700";
     isOpenQ3 = true;
+
+    document.getElementById("a1").style.transform = "translateY(100%)";
+    document.getElementById("a1").style.height = "0";
+    document.getElementById("button1").style.transform = "rotate(0deg)";
+    document.getElementById("q1").style.fontWeight = "400";
+    isOpenQ1 = false;
+
+    document.getElementById("a2").style.transform = "translateY(100%)";
+    document.getElementById("a2").style.height = "0";
+    document.getElementById("button2").style.transform = "rotate(0deg)";
+    document.getElementById("q2").style.fontWeight = "400";
+    isOpenQ2 = false;
+
+    document.getElementById("a4").style.transform = "translateY(100%)";
+    document.getElementById("a4").style.height = "0";
+    document.getElementById("button4").style.transform = "rotate(0deg)";
+    document.getElementById("q4").style.fontWeight = "400";
+    isOpenQ4 = false;
+
+    document.getElementById("a5").style.transform = "translateY(100%)";
+    document.getElementById("a5").style.height = "0";
+    document.getElementById("button5").style.transform = "rotate(0deg)";
+    document.getElementById("q5").style.fontWeight = "400";
+    isOpenQ5 = false;
   }
 };
 
@@ -105,6 +177,30 @@ const handleClickQ4 = () => {
     document.getElementById("button4").style.transform = "rotate(180deg)";
     document.getElementById("q4").style.fontWeight = "700";
     isOpenQ4 = true;
+
+    document.getElementById("a1").style.transform = "translateY(100%)";
+    document.getElementById("a1").style.height = "0";
+    document.getElementById("button1").style.transform = "rotate(0deg)";
+    document.getElementById("q1").style.fontWeight = "400";
+    isOpenQ1 = false;
+
+    document.getElementById("a2").style.transform = "translateY(100%)";
+    document.getElementById("a2").style.height = "0";
+    document.getElementById("button2").style.transform = "rotate(0deg)";
+    document.getElementById("q2").style.fontWeight = "400";
+    isOpenQ2 = false;
+
+    document.getElementById("a3").style.transform = "translateY(100%)";
+    document.getElementById("a3").style.height = "0";
+    document.getElementById("button3").style.transform = "rotate(0deg)";
+    document.getElementById("q3").style.fontWeight = "400";
+    isOpenQ3 = false;
+
+    document.getElementById("a5").style.transform = "translateY(100%)";
+    document.getElementById("a5").style.height = "0";
+    document.getElementById("button5").style.transform = "rotate(0deg)";
+    document.getElementById("q5").style.fontWeight = "400";
+    isOpenQ5 = false;
   }
 };
 
@@ -132,6 +228,30 @@ const handleClickQ5 = () => {
     document.getElementById("button5").style.transform = "rotate(180deg)";
     document.getElementById("q5").style.fontWeight = "700";
     isOpenQ5 = true;
+
+    document.getElementById("a1").style.transform = "translateY(100%)";
+    document.getElementById("a1").style.height = "0";
+    document.getElementById("button1").style.transform = "rotate(0deg)";
+    document.getElementById("q1").style.fontWeight = "400";
+    isOpenQ1 = false;
+
+    document.getElementById("a2").style.transform = "translateY(100%)";
+    document.getElementById("a2").style.height = "0";
+    document.getElementById("button2").style.transform = "rotate(0deg)";
+    document.getElementById("q2").style.fontWeight = "400";
+    isOpenQ2 = false;
+
+    document.getElementById("a3").style.transform = "translateY(100%)";
+    document.getElementById("a3").style.height = "0";
+    document.getElementById("button3").style.transform = "rotate(0deg)";
+    document.getElementById("q3").style.fontWeight = "400";
+    isOpenQ3 = false;
+
+    document.getElementById("a4").style.transform = "translateY(100%)";
+    document.getElementById("a4").style.height = "0";
+    document.getElementById("button4").style.transform = "rotate(0deg)";
+    document.getElementById("q4").style.fontWeight = "400";
+    isOpenQ4 = false;
   }
 };
 
